@@ -1,0 +1,8 @@
+{
+  "scene_description": "Descrição da cena",
+  "composition": "Regras de composição",
+  "camera_style": "Estilo de câmera",
+  "lighting": "Luz",
+  "product_position": "Posição do produto",
+  "negative_prompts": ["erro_1", "erro_2"]
+}

@@ -1,0 +1,5 @@
+{
+  "status": "revision_required",
+  "issues": ["proporcao_incorreta", "baixa_fidelidade"],
+  "recommendations": ["Ajustar escala do produto", "Reforçar referência principal"]
+}

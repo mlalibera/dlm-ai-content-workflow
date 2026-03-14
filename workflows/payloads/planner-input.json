@@ -1,0 +1,11 @@
+{
+  "job_id": "job_0001",
+  "client_id": "cliente_exemplo",
+  "brand_id": "marca_exemplo",
+  "sku_id": "sku_exemplo",
+  "objetivo": "awareness",
+  "canal": "instagram",
+  "formato": "feed",
+  "briefing": "Texto do briefing",
+  "context_summary": "Resumo recuperado do Dify para planning"
+}
