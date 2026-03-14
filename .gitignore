@@ -1,0 +1,40 @@
+# Ambiente
+.env
+*.env.local
+*.env.*.local
+
+# Dependências
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Segredos
+*.pem
+*.key
+secrets/
+
+# Assets pesados
+*.mp4
+*.mov
+*.zip
+*.tar.gz
